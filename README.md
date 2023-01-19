@@ -27,9 +27,16 @@ user@desktop:~/cyberSecurityTool$
 I have had this script for a while (since October of 2022) but was never happy 
 enough with it to make it publicly available.
 
-## To be added
+## To be done
+This may currently look like a very small script but I think it has a lot of
+entertainment potential. If you want to contribute, please fork it! Some
+of the items in the to-do list are
+
 1. More acronyms. A lot of infomercials disguise themselves as webinars, 
 articles, and whitepapers. And they, and their presenters, seem to love 'em 
 acronyms. 
+1. More buzzwords. You can't have too many buzzwords.
 1. Rename the fields. Calling them patternN was done to get it working but
 is not very helpful.
+1. Add option to feed the config file from command line?
+1. Con others to help improve this extremely useful script
