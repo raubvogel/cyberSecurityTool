@@ -24,8 +24,36 @@ user@desktop:~/cyberSecurityTool$
 ```
 
 ## History
-I have had this script for a while (since October of 2022) but was never happy 
-enough with it to make it publicly available.
+Long time ago when I was in high school I found an old book or magazine
+at the school library 
+with a bunch of programming exercises in basic of all languages; this was
+not a rich school. Amongst those programs, there was one I still (vaguely) 
+remember. It picked 3 strings at random from 3 arrays (one string per array) 
+and then would use them to craft a jargon-filled sentence in 
+[economese](https://en.wiktionary.org/wiki/economese) on how to fix the
+economy. Yes, that amused me to no end; I thought it was clever specially
+because the author took the time to ensure the strings would seamless fit in
+their respective places in the sentence.
+
+Unfortunately I cannot name the book. I wish I had written it down. 
+
+This script is my humble homage to that code. I wrote it aimed at the computer
+security community because after reading a few articles and watching 
+infomercials disguised as webinars, the original code poped back into my mind
+screaming "it is the same thing with different buzzwords!" 
+
+Its initial version was done in
+October of 2022. At that time I thought it was not enough with it to make it publicly 
+available, so I left it alone. 
+Fast forward a bit, I cleaned up the code a bit (will not claim it
+is full [PEP 8](https://peps.python.org/pep-0008/) compliant, but it sure is
+much closer than what I had before), put its strings
+in a JSON config file (still wondering if that was a good idea), and here it 
+is.
+
+If you know where the original economese version was published, please let
+me know so I can properly acknowledge I got here by standing on the shoulders
+of giants.
 
 ## To be done
 This may currently look like a very small script but I think it has a lot of

@@ -1,6 +1,5 @@
 #! /usr/bin/env python
-"""
-Script to generate a sales brochure-like description for a hypothetical
+""" Generate a sales brochure-like description for a hypothetical
 cybersecurity tool using the typical buzzwords.
 
 AUTHOR: raubvogel@gmail.com
@@ -18,25 +17,23 @@ def read_data(file_name: str):
 
 
 def describe_me(the_data: dict):
-    """ 
-    Build a sentence describing this tool
-
+    """ Build a sentence describing this tool
     """
     print("Our",
-       choice(the_data['pattern1']),
-      "tool implements a",
-       choice(the_data['pattern2']),
-       choice(the_data['pattern4']),
-      "enabling you to",
-       choice(the_data['pattern5']),
-      "the",
-       choice(the_data['pattern7']),
-      "of your",
-       choice(the_data['pattern3']),
-      "by using our",
-       choice(the_data['pattern6']),
-      "interface."
-     )
+          choice(the_data['pattern1']),
+          "tool implements a",
+          choice(the_data['pattern2']),
+          choice(the_data['pattern4']),
+          "enabling you to",
+          choice(the_data['pattern5']),
+          "the",
+          choice(the_data['pattern7']),
+          "of your",
+          choice(the_data['pattern3']),
+          "by using our",
+          choice(the_data['pattern6']),
+          "interface."
+          ) 
 
 
 if __name__ == "__main__":
