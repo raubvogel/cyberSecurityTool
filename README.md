@@ -3,6 +3,8 @@ Script to create sales-sounding description for some IT security tool.
 Even the name of the repo has that whiff of what you would expect for 
 a tool advert aimed at managers.
 
+Impress your friends! Be the life of the party!
+
 ## Usage
 For now its config filename, `data.json` is hardcoded into the script so
 it require no arguments. That of course can be changed later.
@@ -32,6 +34,15 @@ you to amplify the positive impact of the ROI of your verticals by
 using our continuous monitoring interface.
 user@desktop:~/cyberSecurityTool$ 
 ```
+
+## Requirements
+- Python 3
+- The 
+[random](https://docs.python.org/3/library/random.html) 
+and 
+[json](https://docs.python.org/3/library/json.html) 
+python libraries. Chances are they came in your python install, but I want
+to make sure you are aware of them.
 
 ## History
 Long time ago when I was in high school I found an old book or magazine
@@ -71,8 +82,8 @@ Philip Broughton, who
 proposed a more management-oriented version it in the article 
 "How to Win at Wordsmanship", 
 supposedly (I will remove that word as soon as I can
-confirm the original source; too many online references just repeat each
-other) 
+confirm the original source down to the issue number; too many online 
+references just repeat each other) 
 published in a 1968 issue of [Newsweek](https://www.newsweek.com/). 
 This article described the "Systematic 
 Buzz Phrase Projector," which works as follows:
@@ -95,8 +106,8 @@ number you picked. So, if you picked `0`, `7`, and `5`, you end up with
    |8| compatible | third-generation | hardware|
    |9| balanced | policy | contingency|
 
-3. Add the phrase to any report and enjoy its ring of decisive, knowledgeable i
-authority.
+3. Enjoy how this generated phase adds a ring of decisive, knowledgeable
+authority to any report. 
 
 ## To be done
 This may currently look like a very small script but I think it has a lot of
