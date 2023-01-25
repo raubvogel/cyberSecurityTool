@@ -8,18 +8,28 @@ For now its config filename, `data.json` is hardcoded into the script so
 it require no arguments. That of course can be changed later.
 
 ### Sample output
+I like to see a given tool in action.
+Output sentences have been split for readability.
 
 ```bash
 user@desktop:~/cyberSecurityTool$ ./cyberSecurityTool.py 
-Our disruptive tool implements a Data-driven design enabling you to amplify the positive impact of the visibility of your verticals by using our intent-driven interface.
+Our disruptive tool implements a Data-driven design enabling you 
+to amplify the positive impact of the visibility of your verticals 
+by using our intent-driven interface.
+user@desktop:~/cyberSecurityTool$ 
 ```
 ```bash
 user@desktop:~/cyberSecurityTool$ ./cyberSecurityTool.py 
-Our trendsetting tool implements a Zero Trust deployment enabling you to increase the visibility of the ROI of your non-tangible assets by using our intent-driven interface.
+Our trendsetting tool implements a Zero Trust deployment enabling 
+you to increase the visibility of the ROI of your non-tangible 
+assets by using our intent-driven interface.
+user@desktop:~/cyberSecurityTool$ 
 ```
 ```bash
 user@desktop:~/cyberSecurityTool$ ./cyberSecurityTool.py 
-Our disruptive tool implements a passwordless methodology enabling you to amplify the positive impact of the ROI of your verticals by using our continuous monitoring interface.
+Our disruptive tool implements a passwordless methodology enabling 
+you to amplify the positive impact of the ROI of your verticals by 
+using our continuous monitoring interface.
 user@desktop:~/cyberSecurityTool$ 
 ```
 
@@ -72,18 +82,18 @@ Buzz Phrase Projector," which works as follows:
 number you picked. So, if you picked `0`, `7`, and `5`, you end up with 
 "integrated incremental concept."
 
-| |Column 1 | Column 2 | Column 3 |
-|-|---------|----------|----------|
-|0| integrated| management| options|
-|1| total | organizational | flexibility|
-|2| systematized | monitored | capability|
-|3| parallel | reciprocal | mobility|
-|4| functional | digital | programming|
-|5| responsive | logistical | concept|
-|6| optional | transitional | time-phase|
-|7| synchronized | incremental | projection|
-|8| compatible | third-generation | hardware|
-|9| balanced | policy | contingency|
+   | |Column 1 | Column 2 | Column 3 |
+   |-|---------|----------|----------|
+   |0| integrated| management| options|
+   |1| total | organizational | flexibility|
+   |2| systematized | monitored | capability|
+   |3| parallel | reciprocal | mobility|
+   |4| functional | digital | programming|
+   |5| responsive | logistical | concept|
+   |6| optional | transitional | time-phase|
+   |7| synchronized | incremental | projection|
+   |8| compatible | third-generation | hardware|
+   |9| balanced | policy | contingency|
 
 3. Add the phrase to any report and enjoy its ring of decisive, knowledgeable i
 authority.
