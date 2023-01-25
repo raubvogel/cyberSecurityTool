@@ -55,6 +55,39 @@ If you know where the original economese version was published, please let
 me know so I can properly acknowledge I got here by standing on the shoulders
 of giants.
 
+### Plot Twist 
+Recently I found out the original idea was created by 
+Philip Broughton, who 
+proposed a more management-oriented version it in the article 
+"How to Win at Wordsmanship", 
+supposedly (I will remove that word as soon as I can
+confirm the original source; too many online references just repeat each
+other) 
+published in a 1968 issue of [Newsweek](https://www.newsweek.com/). 
+This article described the "Systematic 
+Buzz Phrase Projector," which works as follows:
+
+1. Think of 3 numbers between 0 and 9.
+1. For each column on the table below, pick the buzzword whose row matches the 
+number you picked. So, if you picked `0`, `7`, and `5`, you end up with 
+"integrated incremental concept."
+
+| |Column 1 | Column 2 | Column 3 |
+|-|---------|----------|----------|
+|0| integrated| management| options|
+|1| total | organizational | flexibility|
+|2| systematized | monitored | capability|
+|3| parallel | reciprocal | mobility|
+|4| functional | digital | programming|
+|5| responsive | logistical | concept|
+|6| optional | transitional | time-phase|
+|7| synchronized | incremental | projection|
+|8| compatible | third-generation | hardware|
+|9| balanced | policy | contingency|
+
+3. Add the phrase to any report and enjoy its ring of decisive, knowledgeable i
+authority.
+
 ## To be done
 This may currently look like a very small script but I think it has a lot of
 entertainment potential. If you want to contribute, please fork it! Some
