@@ -1,10 +1,10 @@
 #! /usr/bin/env python
 """ Generate a sales brochure-like description for a hypothetical
-cybersecurity tool using the typical buzzwords.
+cybersecurity tool using the typical jargons and buzzwords.
 
-AUTHOR: raubvogel@gmail.com
+AUTHOR: Mauricio Tavares <raubvogel@gmail.com>
 
-RELEASE: 0.1.0.
+RELEASE: 0.1.1.
 
 """
 from random import *
@@ -17,7 +17,7 @@ def read_data(file_name: str):
 
 
 def describe_me(the_data: dict):
-    """ Build a sentence describing this tool
+    """ Build a jargon-filled sentence describing this tool
     """
     print("Our",
           choice(the_data['pattern1']),
@@ -32,7 +32,11 @@ def describe_me(the_data: dict):
           choice(the_data['pattern3']),
           "by using our",
           choice(the_data['pattern6']),
-          "interface."
+          "interface for",
+          choice(the_data['pattern8']),
+          choice(the_data['pattern9']),
+          choice(the_data['pattern10'])
+          + "."
           ) 
 
 

@@ -2,12 +2,15 @@
   "pattern1": [
     "innovative",
     "disruptive",
+    "non-cartesian",
     "revolutionary",
     "world-renowned",
     "cloud-based",
+    "cloud-agnostic",
     "multi-tiered",
     "multifaceted",
     "trendsetting",
+    "ChatGPT based", 
     "award-winning"
   ],
   "pattern2": [
@@ -21,6 +24,7 @@
     "Quantum resilient", 
     "non-linear", 
     "cluster-aware", 
+    "1st-party data driven", 
     "paradigm shift"
   ],
   "pattern3": [
@@ -40,6 +44,7 @@
   "pattern5": [
     "increase the visibility of", 
     "zoom into", 
+    "shift left", 
     "seamless integrate", 
     "amplify the positive impact of",
     "identify the edge cases in"
@@ -53,6 +58,23 @@
     "ROI", 
     "visibility", 
     "synergistic effect"
+  ],
+  "pattern8": [
+    "improved", 
+    "superlative" 
+  ],
+  "pattern9": [
+    "transactional", 
+    "deterministic", 
+    "bayesian", 
+    "win-win" 
+  ],
+  "pattern10": [
+    "success", 
+    "leadership", 
+    "mission", 
+    "value stream", 
+    "metrics" 
   ]
 }
 

@@ -29,9 +29,9 @@ user@desktop:~/cyberSecurityTool$
 ```
 ```bash
 user@desktop:~/cyberSecurityTool$ ./cyberSecurityTool.py 
-Our disruptive tool implements a passwordless methodology enabling 
-you to amplify the positive impact of the ROI of your verticals by 
-using our continuous monitoring interface.
+Our cloud-based tool implements a AI deployment enabling you to 
+seamless integrate the ROI of your verticals by using our single 
+pane of glass interface for improved transactional metrics.
 user@desktop:~/cyberSecurityTool$ 
 ```
 
