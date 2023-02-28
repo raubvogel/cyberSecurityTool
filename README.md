@@ -104,14 +104,14 @@ number you picked. So, if you picked `0`, `7`, and `5`, you end up with
 
    | |Column 1 | Column 2 | Column 3 |
    |-|---------|----------|----------|
-   |0| integrated| management| options|
+   |0| **integrated**| management| options|
    |1| total | organizational | flexibility|
    |2| systematized | monitored | capability|
    |3| parallel | reciprocal | mobility|
    |4| functional | digital | programming|
-   |5| responsive | logistical | concept|
+   |5| responsive | logistical | **concept**|
    |6| optional | transitional | time-phase|
-   |7| synchronized | incremental | projection|
+   |7| synchronized | **incremental** | projection|
    |8| compatible | third-generation | hardware|
    |9| balanced | policy | contingency|
 
