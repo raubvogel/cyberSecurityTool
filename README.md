@@ -44,6 +44,15 @@ and
 python libraries. Chances are they came in your python install, but I want
 to make sure you are aware of them.
 
+### Why `JSON` instead of the much superior `YAML`?
+
+![Why not YAML?](Images/yaml.jpg?raw=true)
+
+If I were to have used `YAML` as the file format of my data file, I would
+need to get -- download it or install as a package -- the appropriate 
+Python library to read in that file format. `JSON` I had to do nothing but 
+just `import` it.
+
 ## History
 Long time ago when I was in high school I found an old book or magazine
 at the school library 
